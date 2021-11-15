@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amarwritescode
 - 👀 I’m interested in how Cloud can enable having fun with emerging technologies
-- 🌱 I’m currently learning front-end development and Raspberry Pi
-- 💞️ I’m looking to collaborate on building learning paths
+- 🌱 I’m currently learning front-end development using GitHub Pages
+- 💞️ I’m looking to collaborate on learning through low-code development
 - 📫 How to reach me ...(pending)
 
 <!---
