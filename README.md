@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amarwritescode
-- 👀 I’m interested in how Cloud can enable having fun with emerging technologies
-- 🌱 I’m currently learning front-end development using GitHub Pages
-- 💞️ I’m looking to collaborate on learning through low-code development
+- 👀 I’m interested in applying emerging technologies to real world challenges
+- 🌱 I’m currently learning about methods for communicating technology concepts
+- 💞️ I’m looking to collaborate on empowerment through low-code technology
 - 📫 How to reach me ...(pending)
 
 <!---
